@@ -1,0 +1,11 @@
+Pillow
+gTTS
+pyttsx3
+requests
+openai
+pytest
+python-dotenv
+pygame
+streamlit
+streamlit-drawable-canvas
+tk
