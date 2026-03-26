@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "f936f498ca06477f9b53070caaeae1aa",
+    "ts": "2026-01-28T21:49:48.139821",
+    "user": "John",
+    "char": "我",
+    "score": 100,
+    "passed": true,
+    "attempt": 1,
+    "feedback": "Correct character but stroke order is incorrect. Review stroke sequence.",
+    "type": "ts",
+    "strokes_match": false
+  }
+]
